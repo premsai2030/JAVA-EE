@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-aop-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-aop-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-aop-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-aspects-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-aspects-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-aspects-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-beans-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-beans-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-beans-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-indexer-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-indexer-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-indexer-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-support-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-support-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-context-support-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-core-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-core-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-core-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-expression-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-expression-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-expression-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-instrument-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-instrument-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-instrument-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jcl-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jcl-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jcl-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jdbc-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jdbc-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jdbc-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jms-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jms-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-jms-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-messaging-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-messaging-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-messaging-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-orm-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-orm-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-orm-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-oxm-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-oxm-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-oxm-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-test-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-test-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-test-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-tx-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-tx-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-tx-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-web-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-web-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-web-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-webflux-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-webflux-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-webflux-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-webmvc-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-webmvc-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-webmvc-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-websocket-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-websocket-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/all jar files/spring/spring-websocket-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
